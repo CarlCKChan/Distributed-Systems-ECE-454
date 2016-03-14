@@ -1,0 +1,1 @@
+7. If the node has sent out an election request, let it kill all election requests passing through it if the node's ID is not in the list, and that all the IDs in the list are smaller than the node ID
